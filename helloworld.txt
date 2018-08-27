@@ -4,8 +4,12 @@ i am living in family of four members
 
 
 this is for branch1 data
-dont take this branch1 info
+send to clien3
 
 //master data 1
 //master data 2
+
+send to client1
+
+send to client2
 
