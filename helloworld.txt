@@ -1,4 +1,12 @@
 Hi this is sandeep from rjy
 i am living in family of four members
+
+hello this is from master branch
+it should not apper in branch1
+
 this is for branch1 data
 dont take this branch1 info
+
+master data 1
+master data 2
+
