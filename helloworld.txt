@@ -1,2 +1,4 @@
 Hi this is sandeep from rjy
 i am living in family of four members
+hello this is from master branch
+it should not apper in branch1
